@@ -4,6 +4,7 @@ Learn to identify potentially harmful browser extensions, understand their risks
 ________________________________________
 🧰 Tools Required
 •	Web browser: Google Chrome (example used here)
+
 •	Internet access (for reviewing extension information)
 ________________________________________
 📋 Steps Taken
