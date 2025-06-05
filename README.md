@@ -27,7 +27,6 @@ This task focuses on improving browser security by identifying and removing susp
 - **Reason:** Excessive permissions, known privacy concerns, history of misuse.
 
 ## 📷 Screenshots
-*(Placeholders for documentation)*
 - Chrome Extensions Manager  
 - Extension Details View  
 - Removal Confirmation  
