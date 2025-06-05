@@ -1,4 +1,4 @@
-# 🔍 Task 7: Identify and Remove Suspicious Browser Extensions
+# 🔍 Identify and Remove Suspicious Browser Extensions
 
 ## 📘 Description
 This task focuses on improving browser security by identifying and removing suspicious or harmful browser extensions. Users learn to review installed extensions, assess their permissions, research potential threats, and take corrective action. It aims to promote safer browsing practices and awareness of digital privacy.
